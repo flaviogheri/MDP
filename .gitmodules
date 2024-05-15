@@ -1,0 +1,3 @@
+[submodule "src/perception/hector_slam"]
+	path = src/perception/hector_slam
+	url = git@github.com:flaviogheri/RPLidar_Hector_SLAM.git

@@ -4,3 +4,6 @@
 [submodule "src/path_planning/full_coverage_plan"]
 	path = src/path_planning/full_coverage_plan
 	url = git@github.com:flaviogheri/full_coverage_path_planner.git
+[submodule "src/perception/src/localization/hector_slam"]
+	path = src/perception/src/localization/hector_slam
+	url = https://github.com/flaviogheri/full_coverage_path_planner.git

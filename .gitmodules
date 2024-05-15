@@ -1,9 +1,12 @@
-[submodule "src/perception/hector_slam"]
-	path = src/perception/hector_slam
-	url = git@github.com:flaviogheri/RPLidar_Hector_SLAM.git
+[submodule "src/localization/hector_slam"]
+    path = src/localization/hector_slam
+    url = https://github.com/flaviogheri/full_coverage_path_planner.git
+
 [submodule "src/path_planning/full_coverage_plan"]
-	path = src/path_planning/full_coverage_plan
-	url = git@github.com:flaviogheri/full_coverage_path_planner.git
+    path = src/path_planning/full_coverage_plan
+    url = https://github.com/flaviogheri/full_coverage_path_planner.git
+
+
 [submodule "src/perception/src/localization/hector_slam"]
-	path = src/perception/src/localization/hector_slam
-	url = https://github.com/flaviogheri/full_coverage_path_planner.git
+    path = src/perception/src/localization/hector_slam
+    url = https://github.com/flaviogheri/full_coverage_path_planner.git

@@ -1,0 +1,2 @@
+# this file defines all the requirements for the robot
+# in order to succesfully run it

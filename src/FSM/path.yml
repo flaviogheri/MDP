@@ -1,0 +1,5 @@
+external_paths:
+  load_map: 
+  process_map_data: 
+  generate_global_waypoint:
+  assign_trajectories:
